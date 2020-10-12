@@ -1,4 +1,4 @@
-# -DuckDuckGo
+# DuckDuckGoGroup6
 
 This is a web site recreated from the home page [DuckDuckGo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1), this web is recreated by the Group 6 of [HackYourFutureBelgium](https://hackyourfuture.be/) class-11-12 from the second module called [Incremental Development](https://github.com/HackYourFutureBelgium/incremental-development)
 
