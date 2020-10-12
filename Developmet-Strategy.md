@@ -45,14 +45,15 @@ DuckDuckGoGroup6 [wireframe](https://wireframe.cc/1pMMKH)
 
 ### Create Section `dockmain`
 
+1. Fork repo DuckDuckGoGroup6
 1. Create an issue in the repo, add the labels and project label
-2. Create a branch named `dockmain`
-3. Create a index.html file
-4. Create a style.css file
+1. Create a branch named `dockmain`
+1. Create a index.html file
+1. Create a style.css file
    - Work with @media Query to make the web responsive
-5. Create a link in the index.html to ref style.css
-6. Work in the section `dockmain` according to the wireframe and the website [duckduckgo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1)
-7. Change your status in the project, to follow the work
+1. Create a link in the index.html to ref style.css
+1. Work in the section `dockmain` according to the wireframe and the website [duckduckgo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1)
+1. Change your status in the project, to follow the work
 
 - Assigned to **Preeti**
 
@@ -60,15 +61,16 @@ DuckDuckGoGroup6 [wireframe](https://wireframe.cc/1pMMKH)
 
 ### Create Sections `personal-info`, `details` and `browsing-mode`
 
+1. Fork repo
 1. Create an issue in the repo, add the labels and project label
-2. Create a branch `personal-info`
-3. Create a index.html file
-4. Create a style.css file
+1. Create a branch `personal-info`
+1. Create a index.html file
+1. Create a style.css file
    - Work with @media Query to make the web responsive
-5. Create a link in the index.html to ref style.css
-6. Work in the section `personal-info` according to the wireframe and the website [duckduckgo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1)
-7. Change your status in the project, to follow the work
-8. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
+1. Create a link in the index.html to ref style.css
+1. Work in the section `personal-info` according to the wireframe and the website [duckduckgo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1)
+1. Change your status in the project, to follow the work
+1. Repeat the precedent steps except the first to the section `details` and `browsing-mode`
 
 - Assigned to **Tahmina**
 
@@ -76,14 +78,15 @@ DuckDuckGoGroup6 [wireframe](https://wireframe.cc/1pMMKH)
 
 ### Create Section `social-media`
 
+1. Fork repo
 1. Create an issue in the repo, add the labels and project label
-2. Create a branch named `social-media`
-3. Create a index.html file
-4. Create a style.css file
+1. Create a branch named `social-media`
+1. Create a index.html file
+1. Create a style.css file
    - Work with @media Query to make the web responsive
-5. Create a link in the index.html to ref style.css
-6. Work in the section `social-media` according to the wireframe and the website [duckduckgo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1)
-7. Change your status in the project, to follow the work
+1. Create a link in the index.html to ref style.css
+1. Work in the section `social-media` according to the wireframe and the website [duckduckgo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1)
+1. Change your status in the project, to follow the work
 
 - Assigned to **Brain**
 
