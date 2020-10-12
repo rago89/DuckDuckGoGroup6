@@ -5,6 +5,7 @@ This is a web site recreated from the home page [DuckDuckGo](https://duckduckgo.
 ## Table of contents
 
 - [General info](#general-info)
+- [Group members](#Group_members)
 - [Technologies](#technologies)
 - [Screenshots](#Screenshots)
 - [Status](#status)
@@ -14,6 +15,13 @@ This is a web site recreated from the home page [DuckDuckGo](https://duckduckgo.
 ## General info
 
 Recreating a responsive web design from [DuckDuckGo](https://duckduckgo.com/?va=z&t=hr&atb=v214-1), working as a team with Git and GiyHub, in the third week of incremental development in HYF Belgium program.
+
+## Group 6 members
+
+- [Rafael](https://github.com/rago89)
+- [Preeti](https://github.com/Preeti-t)
+- [Tahmina](https://github.com/tahminarasoli)
+- [Brain](https://github.com/Brainketunze)
 
 ## Technologies
 
