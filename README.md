@@ -6,6 +6,7 @@ This is a web site recreated from the home page [DuckDuckGo](https://duckduckgo.
 
 - [General info](#general-info)
 - [Group members](#Group_members)
+- [Coach](#coach)
 - [Technologies](#technologies)
 - [Screenshots](#Screenshots)
 - [Status](#status)
@@ -22,6 +23,10 @@ Recreating a responsive web design from [DuckDuckGo](https://duckduckgo.com/?va=
 - [Preeti](https://github.com/Preeti-t)
 - [Tahmina](https://github.com/tahminarasoli)
 - [Brain](https://github.com/Brainketunze)
+
+## Coach
+
+- [Stéphane](https://about.me/snicoll)
 
 ## Technologies
 

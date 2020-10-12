@@ -9,6 +9,10 @@ This is a web site recreated from the home page [DuckDuckGo](https://duckduckgo.
 - [Tahmina](https://github.com/tahminarasoli)
 - [Brain](https://github.com/Brainketunze)
 
+## Coach
+
+- [Stéphane](https://about.me/snicoll)
+
 A simple little website for the world to know a little about us.
 
 ## Setting up Repository
