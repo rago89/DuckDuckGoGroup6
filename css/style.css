@@ -1,3 +1,150 @@
+
+/* Global*/
+
+body {
+    
+    padding: 0;
+    margin: 0;
+   
+}
+
+/* FIRST SECTION MONSTER */
+.monster {
+  margin: 0;
+  padding: 0;
+  background: #58b792;
+  border: 0;
+  text-align: central;
+  color: white;
+  height: 100%;
+  vertical-align: middle;
+  
+  
+}
+/* CONTENT STYLING */
+.content {
+  
+  width: 100%;
+  
+  text-align: center;
+  max-width: 2000px;
+  margin: 0 auto;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  vertical-align: middle;
+  
+  font-size: 100%;
+  padding-top: 50px;
+  
+}
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 30px;
+  font-size: 35px;
+  line-height: 40px;
+  margin-bottom: 15px;
+  font-weight: 900;
+  padding: 0;
+  color: white;
+  text-shadow: 0 1px 4px rgba(99, 0, 0, 0.1);
+  text-align: center;
+
+}
+.para {
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  line-height: 30px;
+  padding-top: .20em;
+  padding-bottom: .20em;
+  margin: 0;
+  padding: 0;
+  
+}
+.image {
+  
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60%;
+
+ 
+}
+img{
+  width: 80%;
+  height: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+/*GHOST SECTION */
+.ghost {
+  margin: 0;
+  padding: 0;
+  background: #f5a339;
+  border: 0;
+  text-align: central;
+  color: white;
+  height: 100%;
+  vertical-align: middle;
+  
+}
+/*BATH SECTION */
+.bath {
+  margin: 0;
+  padding: 0;
+  background: #5f63bd;
+  border: 0;
+  text-align: central;
+  color: white;
+  height: 100%;
+  vertical-align: middle;
+  
+}
+/*ARROW DOWN*/
+.arrow {
+  width:35px;
+  height:35px;
+  background-color:black;
+  
+  background-size: 34px 18px; 
+  background-repeat:no-repeat; 
+  background-position:13px 21px;
+  position:absolute;
+  bottom:0px;
+  left:50%;
+  margin-left:-30px;
+  border-radius: 50%;
+  opacity:0.3;
+}
+@keyframes scrolling{
+
+
+}
+.arrow:hover{
+  width:50px;
+  height:50px;
+  margin-left: -40;
+}
+
+/* MEDIA QUERIES*/
+@media(max-width:500px){
+  .para {
+      font-size: 14px;
+      line-height: 16px;
+  }
+  .heading {
+      font-size: 25px;
+      line-height: 24px;
+  }
+  
+
+  }
+
+
 /* SOCIAL MEDIA*/
 
 body {
