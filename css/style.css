@@ -2,7 +2,7 @@
 /* Global*/
 
 body {
-    
+    width: 100%;
     padding: 0;
     margin: 0;
    
@@ -12,10 +12,15 @@ body {
     width: 100%;
     margin: auto;
     overflow: hidden;
-    background-color: #f7f7f7;
     }
 
-.duckmain {
+
+ .duckmain{
+  
+   background-color: #f7f7f7;
+ }
+
+ .duckmain {
     float: right;
     color: #aaa;
     }
@@ -38,6 +43,7 @@ body {
     font-size: 13px;
     background-color: #fff;
     }
+    
 /*PRIVACY SIMPLIFIED*/
     #privacy-menu {
         float: left;
@@ -230,6 +236,7 @@ body {
 /*ARROW NAVIGATION*/
 
 .arrow-nav {
+    background-color: #f7f7f7;
     position: absolute;
     left: 47%;
     top: 85%;
