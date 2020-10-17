@@ -38,43 +38,43 @@ body {
     
         /*IMAGES SUBMENUS*/
         .app {
-        background-image: url(img/woman.svg);
+        background-image: url(Img/woman.svg);
         background-size: 50px;
         background-repeat: no-repeat;
         }
         
         .newsletter {
-        background-image: url(img/mailbox.svg);
+        background-image: url(Img/mailbox.svg);
         background-size: 50px;
         background-repeat: no-repeat;
         }
     
         .devices {
-        background-image: url(img/privacy-simplified.svg);
+        background-image: url(Img/privacy-simplified.svg);
         background-size: 50px;
         background-repeat: no-repeat;
         }
     
         .spread {
-        background-image: url(img/spread.svg);
+        background-image: url(Img/spread.svg);
         background-size: 50px;
         background-repeat: no-repeat;
         }
     
         .donations {
-        background-image: url(img/donations.svg);
+        background-image: url(Img/donations.svg);
         background-size: 50px;
         background-repeat: no-repeat;
         }
     
         .traffic {
-        background-image: url(img/traffic.svg);
+        background-image: url(Img/traffic.svg);
         background-size: 50px;
         background-repeat: no-repeat;
         }
     
         .track {
-        background-image: url(img/privacy-tips.svg);
+        background-image: url(Img/privacy-tips.svg);
         background-size: 50px;
         background-repeat: no-repeat;
         }
@@ -441,7 +441,7 @@ body {
   
 /*--buttom section--*/
 
-  .container {
+  .container1 {
       text-align: center;
       color: #365374;
   }
