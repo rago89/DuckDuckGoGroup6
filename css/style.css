@@ -7,6 +7,244 @@ body {
     margin: 0;
    
 }
+/* SECTION DUCKMAIN */
+ .duckmain {
+    float: right;
+    color: #aaa;
+    }
+    li {
+    list-style: none;
+    }
+    nav li a {
+    text-decoration: none;
+    background-color: #fff;
+    gap: 10px;
+    color: #aaa;
+    padding: 10px 15px;
+    display: block;
+    font-family: inherit;
+    }
+
+    .head-menu {
+    color: #888;
+    text-transform: uppercase;
+    font-size: 13px;
+    background-color: #fff;
+    }
+/*PRIVACY SIMPLIFIED*/
+    #privacy-menu {
+        float: left;
+        }
+    
+        /*IMAGES SUBMENUS*/
+        .app {
+        background-image: url(img/woman.svg);
+        background-size: 50px;
+        background-repeat: no-repeat;
+        }
+        
+        .newsletter {
+        background-image: url(img/mailbox.svg);
+        background-size: 50px;
+        background-repeat: no-repeat;
+        }
+    
+        .devices {
+        background-image: url(img/privacy-simplified.svg);
+        background-size: 50px;
+        background-repeat: no-repeat;
+        }
+    
+        .spread {
+        background-image: url(img/spread.svg);
+        background-size: 50px;
+        background-repeat: no-repeat;
+        }
+    
+        .donations {
+        background-image: url(img/donations.svg);
+        background-size: 50px;
+        background-repeat: no-repeat;
+        }
+    
+        .traffic {
+        background-image: url(img/traffic.svg);
+        background-size: 50px;
+        background-repeat: no-repeat;
+        }
+    
+        .track {
+        background-image: url(img/privacy-tips.svg);
+        background-size: 50px;
+        background-repeat: no-repeat;
+        }
+    
+        .app,
+        .newsletter,
+        .devices,
+        .spread {
+        background-position-y: 20px;
+        background-position-x: 30px;
+        }
+    
+        .showcase__heading {
+        font-size: 17px;
+        font-weight: normal;
+        margin-left: 35px;
+        margin-top: -9px;
+        margin-bottom: 15px;
+        padding: 20px 35px;
+        }
+                    
+        .showcase__subheading {
+        color: #888;
+        font-size: 14px;
+        margin-left: 35px;
+        margin-top: -55px;
+        padding: 20px 35px;
+        }
+    
+    
+        .track,
+        .traffic,
+        .donations {
+        color: black;
+        font-size: 14px;
+        margin-left: 35px;
+        }
+    
+        #social-menu {
+        float: left;
+        }
+    
+        #side-menu {
+        float: left;
+        box-shadow: -1px 0 1px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease-in-out 0s;
+        }
+    
+        span i {
+        color: #888;
+        }
+        nav li ul {
+        display: none;
+        position: absolute;
+        }
+    
+        #privacy-menu li a:hover {
+        text-decoration-line: underline;
+        }
+    
+        #privacy-menu li:hover > ul {
+        display: block;
+        margin-left: -365px;
+        }
+        #social-menu li a:hover {
+        text-decoration-line: underline;
+        }
+    
+        #social-menu li:hover > ul {
+        display: block;
+        margin-left: -50px;
+        }
+    
+        #side-menu li a:hover {
+        text-decoration-line: underline;
+        }
+    
+        #side-menu li:hover > ul {
+        display: block;
+        margin-left: -160px;
+        }
+    
+        span {
+        margin-left: 15px;
+        margin-right: 15px;
+        }
+
+/*DOCKMAIN SEARCH*/
+#main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 270px 100px 350px;
+    grid-template-areas: 
+    ". logo ."
+    ". search ."
+    ". p-text . "
+}
+
+#logo {
+    grid-area:logo;    
+    justify-self: center;
+    align-self: end;
+    margin-top: 200px ;
+}
+#search {
+    grid-area: search;
+    display: inline-flex;
+    align-self: center;
+    column-gap: 0in;
+}
+
+#searchbar {
+    width: 550px;
+    height: 40px;
+    border:1px solid rgba(170, 170, 170, 0.5);
+    border-right: none;
+    position: relative
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+#search-btn {
+    width: 10%;
+    border: none;
+    border:1px solid rgba(170, 170, 170, 0.5);
+    background-color: white;
+    border-left: none;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#search-btn:hover {
+    background-color: #66ad57;
+}
+
+#p-text {
+    grid-area: p-text;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    justify-self: center;
+    align-self: start;
+    color: #87CEFA;
+}
+
+
+/*ARROW NAVIGATION*/
+
+.arrow-nav {
+    position: absolute;
+    left: 47%;
+    top: 85%;
+    }
+
+    .arrow-nav img {
+    height: 64px;
+    width: 80px;
+    opacity: 0.85;
+    transition: opacity 0.25s ease;
+    }
+
+    .arrow-nav .arrow {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 32%;
+    top: 83%;
+    background: black;
+    border-radius: 50%;
+    }
+
 
 /* FIRST SECTION MONSTER */
 .monster {
