@@ -8,7 +8,13 @@ body {
    
 }
 /* SECTION DUCKMAIN */
- .duckmain {
+  .container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    }
+
+.duckmain {
     float: right;
     color: #aaa;
     }
