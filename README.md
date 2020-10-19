@@ -37,7 +37,7 @@ Project is created with:
 
 ## Screenshots
 
-![Homepage Screenshot](#)
+![Homepage Screenshot](Img/screenshotduckduckgo.png)
 
 ## Status
 
